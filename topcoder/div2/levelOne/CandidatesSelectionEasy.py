@@ -1,9 +1,9 @@
 """
 15-Nov-2015
 https://community.topcoder.com/stat?c=problem_statement&pm=13160
-Method signature:	int[] sort(String[] score, int x)
+Method signature: int[] sort(String[] score, int x)
 """
-import collections
+
 import operator
 
 def sort(scores, x):
