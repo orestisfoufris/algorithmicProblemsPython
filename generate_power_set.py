@@ -1,5 +1,5 @@
 """
-Generate a power set from a give set
+Generate a power set from a given set
 """
 
 def generatePowerSet(initialList):
